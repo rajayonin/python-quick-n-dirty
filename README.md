@@ -270,9 +270,10 @@ with open("file", "a") as f:
 Remember to add `"\n"` at the end for a new line.
 
 
-<!-- ## `pip` and modules -->
+<!-- TODO: `pip` and modules -->
 
 
 ## Extra stuff
 - This is a summarized version of a talk I gave (**in spanish**) for the [GUL](https://gul.uc3m.es) university association, you can find the video [here](https://www.youtube.com/watch?v=1xA0d7Z4EgU&t=1398s) and the slides [here](https://docs.google.com/presentation/d/1EItWmCZvpOq0B9ViRJrJD5C6bgc5sKP2h5glHTSwxog/edit?usp=sharing).
-- Python tutorials can be found in [W3Schools](w3schools.com/python/).
+- Interactive, in-depht [Cisco Python Courses](https://skillsforall.com/learningcollections/python) (very good ones).
+- Python tutorials can be found in [W3Schools](https://w3schools.com/python/).
